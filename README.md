@@ -27,15 +27,6 @@
 
 ---
 
-## 📸 Screenshots
-
-| Home Page                        | Mock API Panel                        |
-|----------------------------------|---------------------------------------|
-| ![Home](https://mock-api-hub.vercel.app/screenshot1.png) | ![Dashboard](https://mock-api-hub.vercel.app/screenshot2.png) |
-
-> _(Replace these URLs with actual screenshot URLs if hosted)_
-
----
 
 ## 🚀 Getting Started
 
