@@ -2,8 +2,6 @@
 
 **MockAPI Hub** is the ultimate playground for developers to create, test, and share mock APIs instantly. Whether you're building a frontend or need a quick backend for testing, MockAPI Hub saves time and boosts productivity.
 
-![MockAPI Hub Banner](https://mock-api-hub.vercel.app/_next/image?url=%2Flogo.png&w=384&q=75)
-
 > Live Demo: [mock-api-hub.vercel.app](https://mock-api-hub.vercel.app/)  
 > GitHub Repo: [github.com/Aryan-Rathour/MockAPI-Hub](https://github.com/Aryan-Rathour/MockAPI-Hub)
 
